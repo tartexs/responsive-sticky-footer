@@ -1,0 +1,29 @@
+.navbar-default {
+  background-color: #ebebeb !important;
+}
+
+.navbar-footer {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-width: 1px;
+  border-style: solid;
+  margin-top: 15px;
+}
+
+.navbar-custom {
+  margin-bottom: 15px !important;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.jumbotron, .btn, .navbar-custom {
+  border-radius: 0 !important;
+}
+
+p {
+  font-size: 1.75rem !important;
+}
+
+* {
+  font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif !important;
+}
